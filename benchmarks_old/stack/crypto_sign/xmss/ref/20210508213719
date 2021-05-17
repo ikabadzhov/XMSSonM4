@@ -1,0 +1,7 @@
+crypto_sign_keypair stack usage
+3896
+crypto_sign stack usage
+4024
+crypto_sign_open stack usage
+3688
+Signature valid!
